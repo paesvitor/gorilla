@@ -1,0 +1,1 @@
+function oi(){console.log("asdasd")}console.log("nada"),console.log("teste js");
